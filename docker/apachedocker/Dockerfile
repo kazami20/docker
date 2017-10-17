@@ -2,7 +2,7 @@ FROM ubuntu:test
 MAINTAINER Jinho Kim <kazami20@naver.com>
 
 # Run upgrades
-RUN apt-get update
+#RUN apt-get update
 
 # Install basic packages
 RUN apt-get -y openssl-devel 
