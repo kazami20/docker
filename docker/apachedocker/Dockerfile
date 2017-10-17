@@ -1,4 +1,4 @@
-FROM ubuntu:test
+FROM ubuntu:lasted
 MAINTAINER Jinho Kim <kazami20@naver.com>
 
 # Run upgrades
